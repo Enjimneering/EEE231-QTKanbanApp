@@ -1,0 +1,3 @@
+pySide6
+pytest
+pylogger

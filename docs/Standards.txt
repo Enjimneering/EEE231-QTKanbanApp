@@ -1,0 +1,23 @@
+== Code Standards ==
+
+File Structure:
+
+                 root
+            /      |        \                 
+         docs    assets      src               
+         /                   /   \
+    standards           frontend   backend
+
+Class Names:
+
+1 - CapitalClassName 
+2 - Underscored_Class_Name 
+3 - camelCaseClassName
+
+Variable Names:
+
+1 - variableName
+2 - variable_name
+3 - variableName
+
+Comment Headers:
