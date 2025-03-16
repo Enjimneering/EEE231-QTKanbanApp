@@ -4,10 +4,9 @@ File Structure:
 
                  root
             /      |        \                 
-         docs    assets      src               
-         /                   /   \
+         docs    assets     src               
+         /                  /   \
     standards           frontend   backend
-
 
 Class Names:
 1 - CapitalClassName 
@@ -18,9 +17,9 @@ Functions Names:
 Variable Names:
 2 - variable_name
 
-parameter Names
-
+Parameter Names:
 1 - _parameterName
+
 
 Comment Headers:
 module names
