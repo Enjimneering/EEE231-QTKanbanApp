@@ -8,16 +8,20 @@ File Structure:
          /                   /   \
     standards           frontend   backend
 
-Class Names:
 
+Class Names:
 1 - CapitalClassName 
-2 - Underscored_Class_Name 
-3 - camelCaseClassName
+
+Functions Names:
+1 - camelModuleName 
 
 Variable Names:
-
-1 - variableName
 2 - variable_name
-3 - variableName
+
+parameter Names
+
+1 - _parameterName
 
 Comment Headers:
+module names
+
